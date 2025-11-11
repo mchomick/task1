@@ -8,7 +8,7 @@ Model obejmuje pięć encji reprezentujących kluczowe elementy domeny bankowej 
 
 ## Diagram modelu
 
-![DDM_diagram.png](DDM_diagram.png)
+![DDD_diagram.png](DDD_diagram.png)
 
 
 ## Konteksty Ograniczone
